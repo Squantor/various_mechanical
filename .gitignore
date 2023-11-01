@@ -1,5 +1,5 @@
 # freecad backup files
-*.FCStd?
+*.FCBak
 
 # ignore generated 3d models
 *.stl
